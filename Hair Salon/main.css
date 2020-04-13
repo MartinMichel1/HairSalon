@@ -1,0 +1,103 @@
+body{
+   overflow-x: hidden;
+}
+nav{
+    border-bottom:1px solid ;
+    border-color: rgb(47, 60, 115);
+}
+.celoten{
+        background-color: red;
+}
+.navbar-nav{
+    flex:1;
+    justify-content: flex-end;
+}
+.domace-ime{
+    font-size: 35px;
+    padding-top: 7px;
+}
+.nav-item{
+    font-size:20px;
+}
+.col.naslov-2{
+    background-color: rgb(47, 60, 115);
+    width:100%;
+    height: 85px;
+    padding-top:15px;
+    color:rgb(251, 234, 235);
+    border-top: 1px solid rgb(145, 145, 145);
+    border-bottom: 1px solid rgb(145, 145, 145);
+}
+.container.naslov-2{
+    background-color: rgb(47, 60, 115);
+    width:100%;
+   padding-bottom:15px;
+    padding-top:15px;
+    color:rgb(251, 234, 235);
+}
+.col.faq{
+    background-color: rgb(47, 60, 115);  
+}
+.row.services{
+    padding-bottom:30px;
+    padding-top:30px;
+}
+.naslov-2{
+    text-align: center;
+}
+.card{
+    border-color:rgb(47, 60, 115);
+}
+.opis{
+    font-size: 32px;
+}
+.container.mt-4.services{
+    padding-bottom: 22px; 
+}
+.card-title.text-center{
+    color:rgb(47, 60, 115);
+}
+.btn.btn-success.center-block.mt-3{
+    width:150px;
+    background-color:rgb(47, 60, 115);
+    color: rgb(251, 234, 235);
+}
+.obrazec{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.stranice{
+    border: 1px solid;
+}
+.btn.btn-link{
+    color: rgb(251, 234, 235);
+}
+.card-header{
+    background-color: rgb(47, 60, 115);
+    border-color: black;
+}
+.stisk{
+   padding-left: 20%;
+    padding-right: 20%;
+    padding-top:50px;
+    padding-bottom:50px;
+}
+.row.appointment{
+    padding-left:3%;
+    padding-right: 3%;
+    padding-top:30px;
+}
+.col.footer{
+    border-top: 1px solid;
+}
+a.zadnji-seznam{
+    color:black;
+}
+.seznam{
+    list-style: none;
+    padding-left: 0;   
+}
+.poravnava{
+    padding-top:20px;
+}
+
